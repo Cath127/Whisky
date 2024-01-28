@@ -2,7 +2,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* Containers */
+.container-wrapper {
+  
+}
+
+.container-wrapper--red {
+  background-color: #f05f40;
+  font-color: white;
+}
 
 .alert-container .col-12 {
   padding-left: 0;
