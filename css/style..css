@@ -13,6 +13,8 @@ body {
   border-radius: 0;
   margin-bottom: 0;
   padding: 5px 15px;
+  background-color: #eec802;
+  border-color: #eec802;
 }
 
 .callout-container {
