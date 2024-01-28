@@ -8,7 +8,7 @@ body {
 
 .container-wrapper--red {
   background-color: #f05f40;
-  font-color: white;
+  color: white;
 }
 
 .alert-container .col-12 {
@@ -76,6 +76,10 @@ body {
 
 .block-divider--orange {
     background-color: #f05f40;
+}
+
+.block-divider--white {
+  background-color: white;
 }
 
 .block-divider--short {
@@ -163,4 +167,9 @@ body {
     background-color: #df4929;
     border-color: #df4929;
     color: white;
+}
+
+.feature {
+  text-align: center;
+  margin-bottom: 40px;
 }
